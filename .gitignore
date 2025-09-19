@@ -1,0 +1,6 @@
+data_finale/mna_control_group_deals_categories_non_coss.csv
+data_finale/mna_control_group_deals_categories_non_coss.csv
+data_finale/control_group_mna.csv
+
+# Exclure le dossier backup_repo
+backup_repo/
