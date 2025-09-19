@@ -1,0 +1,79 @@
+Deal Year,Bonne catégorie,Count
+2012,Business application,3
+2012,Data,4
+2013,AI,2
+2013,Business application,1
+2013,Core infrastructure / Back-end / Devops,4
+2013,Data,2
+2013,Security,1
+2014,Blockchain,1
+2014,Core infrastructure / Back-end / Devops,4
+2014,Security,1
+2015,AI,3
+2015,Blockchain,1
+2015,Business application,1
+2015,Core infrastructure / Back-end / Devops,5
+2015,Data,8
+2015,Devtools,6
+2015,Security,2
+2016,Blockchain,4
+2016,Business application,1
+2016,Data,10
+2016,Devtools,3
+2016,Security,4
+2017,AI,2
+2017,Blockchain,4
+2017,Business application,1
+2017,Core infrastructure / Back-end / Devops,5
+2017,Data,8
+2017,Devtools,6
+2017,Security,3
+2018,AI,5
+2018,Blockchain,6
+2018,Business application,4
+2018,Core infrastructure / Back-end / Devops,4
+2018,Data,9
+2018,Devtools,5
+2018,Security,6
+2019,AI,12
+2019,Blockchain,6
+2019,Business application,7
+2019,Core infrastructure / Back-end / Devops,11
+2019,Data,16
+2019,Devtools,3
+2019,Security,8
+2020,AI,13
+2020,Blockchain,3
+2020,Business application,5
+2020,Core infrastructure / Back-end / Devops,15
+2020,Data,18
+2020,Devtools,11
+2020,Security,13
+2021,AI,13
+2021,Blockchain,4
+2021,Business application,13
+2021,Core infrastructure / Back-end / Devops,24
+2021,Data,20
+2021,Devtools,19
+2021,Security,14
+2022,AI,16
+2022,Blockchain,13
+2022,Business application,7
+2022,Core infrastructure / Back-end / Devops,20
+2022,Data,27
+2022,Devtools,12
+2022,Security,12
+2023,AI,43
+2023,Blockchain,11
+2023,Business application,10
+2023,Core infrastructure / Back-end / Devops,14
+2023,Data,11
+2023,Devtools,15
+2023,Security,14
+2024,AI,28
+2024,Blockchain,3
+2024,Business application,4
+2024,Core infrastructure / Back-end / Devops,7
+2024,Data,8
+2024,Devtools,7
+2024,Security,5
